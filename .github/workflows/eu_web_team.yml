@@ -10,10 +10,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: 5hojib/heroku-deploy-action@v2
         with:
-          heroku_api_key: 'HRKU-b77ce64c-92d3-4f86-919d-ed8e8c191302'
-          heroku_app_name: 'ace776ygh'
-          heroku_email: 'diya.sonkar@outlook.com'
-          team: 'sami34324'
+          heroku_api_key: 'HRKU-81c2be9a-1756-4965-8c19-64a4320b1373'
+          heroku_app_name: 'crz628jsn'
+          heroku_email: 'AnkitSingh34325@outlook.com'
+          team: 'saaam32555'
           usedocker: true
           docker_heroku_process_type: web
           stack: "container"
