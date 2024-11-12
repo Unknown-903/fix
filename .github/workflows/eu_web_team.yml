@@ -11,7 +11,7 @@ jobs:
       - uses: 5hojib/heroku-deploy-action@v2
         with:
           heroku_api_key: 'HRKU-65fb6164-8938-4553-9f09-07e31f0d0e10'
-          heroku_app_name: 'ocean476hj7'
+          heroku_app_name: 'devv627hsj'
           heroku_email: 'rajeshmandall123@outlook.com'
           team: 'suzie34544'
           usedocker: true
