@@ -14,4 +14,4 @@ jobs:
     - name: Build the Docker image
       run: docker build . -t unknownxyz/sample
     - name: login
-      run: docker login -u unknownxyz -p garvatibot && docker push UnknownXYZ/sample
+      run: docker login -u unknownxyz -p garvatibot && docker push unknownxyz/sample
