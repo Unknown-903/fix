@@ -121,7 +121,7 @@ if DATABASE_URL:
         del qbit_opt['_id']
         qbit_options = qbit_opt
     conn.close()
-    BOT_TOKEN = environ.get('BOT_TOKEN', '7227008403:AAHUERA7q_dGnTcm-s5RQ0Q3s0P4iEjhIBE')
+    BOT_TOKEN = environ.get('BOT_TOKEN', '7621829701:AAHZo5X_rXV0ESKVFqR8P5PyvobnaYXZrzc')
     bot_id = BOT_TOKEN.split(':', 1)[0]
     DATABASE_URL = environ.get('DATABASE_URL', 'mongodb+srv://Toonpro12:animebash@cluster0.e6hpn8l.mongodb.net/?retryWrites=true&w=majority')
 else:
