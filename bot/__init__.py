@@ -79,7 +79,7 @@ ARIA_NAME = environ.get('ARIA_NAME', '')
 QBIT_NAME = environ.get('QBIT_NAME', '')
 FFMPEG_NAME = environ.get('FFMPEG_NAME', '')
 
-BOT_TOKEN = environ.get('BOT_TOKEN', '7227008403:AAHUERA7q_dGnTcm-s5RQ0Q3s0P4iEjhIBE')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7621829701:AAHZo5X_rXV0ESKVFqR8P5PyvobnaYXZrzc')
 if len(BOT_TOKEN) == 0:
     log_error("BOT_TOKEN variable is missing! Exiting now")
     exit(1)
