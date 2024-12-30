@@ -24,6 +24,7 @@ psutil
 pymongo
 python-dotenv
 python-magic
+pytz
 qbittorrent-api
 requests
 telegraph
